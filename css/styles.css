@@ -14,8 +14,8 @@ body {
 
 /* Issue #1 · Cabecera y menú */
 header {
-  background: #f2664a;
-  color: #ffffff;
+  background: blue;
+  color: aquamarine;
   padding: 1.5rem 1rem;
 }
 
