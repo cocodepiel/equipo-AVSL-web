@@ -7,14 +7,14 @@
 
 body {
   margin: 0;
-  font-family: system-ui, sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   line-height: 1.5;
   color: #222222;
 }
 
 /* Issue #1 · Cabecera y menú */
 header {
-  background: #1d3557;
+  background: #f2664a;
   color: #ffffff;
   padding: 1.5rem 1rem;
 }
@@ -68,10 +68,11 @@ main {
 
 /* Issue #3 · Pie */
 footer {
-  background: #f1f1f1;
+  background: #f89d55;
   padding: 1rem;
   text-align: center;
 }
 
 /* Issue #4 · Paleta y tipografía del equipo.
-   Escribid aquí vuestros cambios de color y de tipo de letra. */
+He decidido utilizar una paleta de color cálida con tonalidades naranjas y 
+la tipografía de Times New Roman, ya que es una que facilita la lectura
